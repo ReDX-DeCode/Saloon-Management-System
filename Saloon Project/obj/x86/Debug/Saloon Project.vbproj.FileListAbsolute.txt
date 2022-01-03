@@ -1,0 +1,58 @@
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\bin\Debug\Saloon Project.exe
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\bin\Debug\Saloon Project.pdb
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\bin\Debug\Saloon Project.xml
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Login.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Resources.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Splash.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.vbproj.GenerateResource.Cache
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.exe
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.xml
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.pdb
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Homepage.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.cosmetic.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.service_list.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.appoinment.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.employe.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Bill.resources
+C:\Users\DI-SONIC\Documents\Saloon Project\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.exe
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.xml
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.pdb
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.appoinment.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Bill.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.cosmetic.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.employe.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Homepage.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Login.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Resources.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.service_list.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Splash.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon Project.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\bin\Debug\Saloon Project.exe
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\bin\Debug\Saloon Project.pdb
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\bin\Debug\Saloon Project.xml
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.cosmetics.resources
+C:\Users\Admin\Documents\Saloon Project\Saloon Project\obj\x86\Debug\Saloon_Project.Newlogin.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.exe
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.xml
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.pdb
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\bin\Debug\Saloon Project.exe
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\bin\Debug\Saloon Project.pdb
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\bin\Debug\Saloon Project.xml
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.appoinment.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.Bill.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.cosmetic.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.cosmetics.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.employe.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.Homepage.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.Login.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.Resources.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.Newlogin.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.service_list.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon_Project.Splash.resources
+C:\Users\Admin\Music\2. RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.vbproj.GenerateResource.Cache
+C:\Users\Admin\Music\RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.exe
+C:\Users\Admin\Music\RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.xml
+C:\Users\Admin\Music\RAD Saloon Project Final\Saloon Project\obj\x86\Debug\Saloon Project.pdb
